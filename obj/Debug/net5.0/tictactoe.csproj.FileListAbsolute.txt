@@ -1,0 +1,47 @@
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.deps.json
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.runtimeconfig.json
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.runtimeconfig.dev.json
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.dll
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/ref/tictactoe.dll
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.pdb
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.csproj.AssemblyReference.cache
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.AssemblyInfoInputs.cache
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.AssemblyInfo.cs
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.dll
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/ref/tictactoe.dll
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.pdb
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.genruntimeconfig.cache
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.exe
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.deps.json
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.runtimeconfig.json
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.runtimeconfig.dev.json
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.dll
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\bin\Debug\net5.0\ref\tictactoe.dll
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.pdb
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.csproj.AssemblyReference.cache
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.AssemblyInfoInputs.cache
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.AssemblyInfo.cs
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.csproj.CoreCompileInputs.cache
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.dll
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\ref\tictactoe.dll
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.pdb
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.genruntimeconfig.cache
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.exe
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.deps.json
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.runtimeconfig.json
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.runtimeconfig.dev.json
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.dll
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\bin\Debug\net5.0\ref\tictactoe.dll
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.pdb
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.csproj.AssemblyReference.cache
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.AssemblyInfoInputs.cache
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.AssemblyInfo.cs
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.csproj.CoreCompileInputs.cache
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.dll
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\ref\tictactoe.dll
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.pdb
+D:\Dylan (User)\Documents\School\CSE210\CSE210-Projects\individual\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.genruntimeconfig.cache
